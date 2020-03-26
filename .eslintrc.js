@@ -49,7 +49,6 @@ module.exports = {
         jsxBracketSameLine: true,
         trailingComma: 'all',
         proseWrap: 'always',
-        endOfLine: 'lf',
       },
     ],
   },
